@@ -1,0 +1,7 @@
+{
+  "name": "vite-only",
+  "private": true,
+  "scripts": {
+    "dev": "vite"
+  }
+}
